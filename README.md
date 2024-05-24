@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm ISIANIOUI Doha</h1>
 <h3 align="center">A passionate frontend and backend developer from Morocco</h3>
-<img align="right" alt="coding width=200" src="https://img.freepik.com/premium-vector/girl-coding-designing-with-pc-illustration_418302-2383.jpg"
+<img align="right" alt="coding width=200 px" src="https://img.freepik.com/premium-vector/girl-coding-designing-with-pc-illustration_418302-2383.jpg"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isianioui&label=Profile%20views&color=0e75b6&style=flat" alt="isianioui" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
