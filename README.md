@@ -31,7 +31,7 @@
 
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isianioui&" alt="isianioui" /></p>
 
-https://github.com/isianioui/isianioui/blob/output/github-contribution-grid-snake.gif
+<p img align="center" ><img src="https://raw.githubusercontent.com/isianioui/isianioui/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake eating my contributions" /></p>
 
 
 
