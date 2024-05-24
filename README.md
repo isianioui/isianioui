@@ -19,7 +19,11 @@
 <a href="https://instagram.com/isianioui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="isianioui" height="30" width="40" /></a>
 </p>
 
+## 🎯 Languages and Tools:
 
+<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,php,mysql,git,linux,bash,ai,)](https://skillicons.dev)"/></p>
+
+<br>
 
 <p align="left" ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isianioui&show_icons=true&locale=en&layout=compact" alt="isianioui" /></p>
 
