@@ -8,9 +8,6 @@
 ## -📫 How to reach me **isianioui.doha@gmail.com**
 ## -My portfolio website **https://dev-portfoliodh.pantheonsite.io/?customize_changeset_uuid=a4278707-e5fa-444b-844f-a3c26585f11d**
 
-<p align="center" margin="0"> 
-    <img alt="coding" src="https://github.com/isianioui/isianioui/blob/main/IMG-20240525-WA0002.jpg" /> 
-</p>
 
 
 
