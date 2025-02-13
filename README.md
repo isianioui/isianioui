@@ -33,8 +33,6 @@
 
 
 
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=isianioui&theme=tokyonight" alt="isianioui" /></p>
-
 
 ## 🐍 My contrributions:
 <p img align="center" ><img src="https://raw.githubusercontent.com/isianioui/isianioui/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake eating my contributions" /></p>
