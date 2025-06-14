@@ -19,7 +19,7 @@
 
 ## 🎯 Languages and Tools:
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=cpp,java,js,nodejs,html,css,mysql,linux,python,flask,github,react,vscode,windows,)](https://skillicons.dev)"/></p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=cpp,java,js,nodejs,kotlin,firebase,html,css,postgres,mysql,mongodb,linux,python,flask,github,react,vscode,androidstudio,windows,)](https://skillicons.dev)"/></p>
 
 <br>
 
