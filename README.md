@@ -23,14 +23,6 @@
 
 <br>
 
-## ☄️ Github Streaks:
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=isianioui&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="isianioui" /></p>
-<br>
-
-
-## ⚡ Github Stats:
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=isianioui&show_icons=true&locale=en&theme=tokyonight" alt="isianioui" /></p>
-
 
 
 
