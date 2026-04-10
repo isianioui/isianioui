@@ -47,13 +47,18 @@ doha = {
 
 ---
 
-### 🐍 Contribution Snake
+
+
+### 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/isianioui/isianioui/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=isianioui&theme=github_dark" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=isianioui&theme=github_dark" />
 </p>
 
 ---
+
 
 ### 🤝 Connect With Me
 
@@ -75,4 +80,3 @@ doha = {
   <img src="https://komarev.com/ghpvc/?username=isianioui&label=Profile+Views&color=58a6ff&style=flat" />
 </p>
 
-<p align="center"><i>Made with ♥ in Morocco 🇲🇦</i></p>
