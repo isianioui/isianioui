@@ -38,13 +38,11 @@ doha = {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=isianioui&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
-  &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isianioui&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isianioui&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=isianioui&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+  <img src="https://streak-stats.demolab.com?user=isianioui&theme=github-dark-blue&hide_border=true&background=0d1117" />
 </p>
 
 ---
